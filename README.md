@@ -167,11 +167,6 @@ All metrics computed using scikit-learn.
 
 * * *
 
-## 📜 License
-
-MIT License — see `LICENSE` file.
-
-* * *
 
 ## 👨‍💻 Contact
 
